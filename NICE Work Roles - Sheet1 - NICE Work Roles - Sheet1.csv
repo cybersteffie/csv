@@ -1,5 +1,5 @@
 name,parent,value
-Origin,0,0
+Origin,,
 System Testing and Evaluation Specialist,Origin,14
 Systems Developer,Origin,14
 Authorizing Official/Designating Representative,Origin,17
@@ -22,7 +22,7 @@ Cyber Policy and Strategy Planner,Origin,17
 Cyber Instructor,Origin,16
 Cyber Instructional Curriculum Developer,Origin,16
 Knowledge Manager,Origin,16
-Technical Support Specialist ,Origin,15
+Technical Support Specialist,Origin,15
 System Administrator,Origin,14
 Database Administrator,Origin,15
 Data Analyst,Origin,14
